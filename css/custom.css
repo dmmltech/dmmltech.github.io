@@ -1,1 +1,84 @@
-/* Add here all your CSS customizations */
+section{
+	margin:0 !important;
+	padding:150px 0 !important;
+}
+
+.section-primary{
+	padding:50px !important;
+}
+
+.section-quote{
+	padding:24px !important;
+	background-color:#333 !important;
+	color:#fff !important;
+	margin:0 !important;
+	border: 0 !important;
+	font-size: 1.9rem !important;
+}
+
+.testimonial.testimonial-style-5 blockquote p,.testimonial .testimonial-author strong,.testimonial.testimonial-with-quotes blockquote:before,.testimonial.testimonial-with-quotes blockquote:after{
+	color:#fff !important;
+}
+
+.testimonial.testimonial-style-5 .testimonial-author{
+	border:none !important;
+}
+
+.section-default{
+	padding:150px 0% !important;
+	min-height: 500px !important;
+	background-color: #fff !important;
+}
+
+
+.section-header{
+	padding:300px 0 !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	font-weight: 900px  !important;
+}
+
+#footer{
+	margin-top:0 !important;
+}
+
+.snapshot{
+	color:#000 !important;
+	font-size:1.8rem;
+	background-color: #fff;
+	padding: 1%;
+	border-radius: 3px;
+}
+.med-text{
+	font-size:2.5rem;
+	line-height: 3.5rem;
+	margin-bottom: 24px !important;
+}
+
+.huge-text{
+	font-size:4.3rem;
+	text-transform:uppercase;
+	line-height: 5rem;
+	color:#000;
+	font-weight: 900;
+}
+
+.list-inline li{
+	margin-bottom: 12px  !important;
+}
+
+.heading-middle-border{
+	margin:48px 0;
+}
+
+.logo-item{
+	margin-bottom: 24px;
+	}
+
+ul{
+	list-style-position: inside;
+}
+
+.feature-box .feature-box-info {
+    padding-left: 0px !important;
+}
