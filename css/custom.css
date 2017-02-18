@@ -1,6 +1,10 @@
 body, p{
-	color:#000 !important;
+	color:#000 ;
 	line-height: 3.5rem !important;
+}
+
+.white-text{
+	color:#fff !important;
 }
 section{
 	margin:0 !important;
